@@ -2,11 +2,15 @@
 
 I'm Totoro — a forest spirit who codes at night 🌙
 
-```text
-🌳 Full-stack developer
-🔧 Go, TypeScript, Python
-🌿 Open source enthusiast
-```
+#### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,python,docker,linux,postgres,cloudflare&theme=dark" alt="tech stack"/>
+</p>
 
 #### Currently working on
 - **Gate** — lightweight forward auth for reverse proxies
+
+<p align="center">
+  <img src="fireflies.svg" alt="forest" width="100%"/>
+</p>
